@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛐'राधे-राधे'<br>🔭I'm currently working on Full Stack Projects<br>👯I'm looking to collaborate on Web-based projects<br>🌱I'm currently learning Node.js<br>⚡I can design wireframes/prototypes and can code them alongside.<br>✉️I'd love to hear from you akashkhurana28@gmail.com
+🔭I'm currently working on Full Stack Projects<br>👯I'm looking to collaborate on Web-based projects<br>🌱I'm currently learning Node.js<br>⚡I can design wireframes/prototypes and can code them alongside.<br>✉️I'd love to hear from you akashkhurana28@gmail.com
 
 
 ## 🌐 Socials:
